@@ -2,7 +2,8 @@
 
 ### 💻 Web Developer | JavaScript Enthusiast
 
-I'm a passionate developer currently learning Web Development and building projects to improve my skills.
+I'm a passionate developer currently learning Web Development
+and building real-world projects to improve my skills.
 
 ---
 
@@ -19,23 +20,30 @@ I'm a passionate developer currently learning Web Development and building proje
 ## 🛠️ Tech Stack
 
 ### Frontend
-- HTML5
-- CSS3
-- JavaScript
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### Tools
-- Git
-- GitHub
-- VS Code
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
 ## 🚀 Projects
 
 ### 📄 Smart Resume Screening Tool
-A web-based application that analyzes resumes and helps with candidate screening.
+
+A web-based application that analyzes resumes and helps
+with candidate screening.
+
+🔗 [View Project](https://github.com/naushadansari780011/Smart-Resume-Screening-Tool)
 
 ### 🍳 Recipe Finder
+
 A JavaScript-based project for finding recipes.
 
 ---
@@ -46,6 +54,23 @@ A JavaScript-based project for finding recipes.
 
 ---
 
+## 🎯 Current Goals
+
+- Master JavaScript
+- Learn React
+- Learn Backend Development
+- Learn Database
+- Become a Full Stack Developer
+- Practice DSA
+
+---
+
 ## 📫 Connect With Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/naushadansari780011)
+
+
+
+
+
+
